@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio - CSE0001
 
-**Name:** Mohit Arora
-**Registration Number:** 25BCY10037
+**Name:** Rudraksha Gaharwar
+**Registration Number:** 25BAI10635
 **Branch:** B.Tech CSE (AI and ML)
 **Role:** Student Digital Ambassador
 
