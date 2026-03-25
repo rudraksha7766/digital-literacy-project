@@ -1,20 +1,32 @@
-# Digital Literacy Portfolio - CSE0001
+# 🌐 CSE0001: Digital Literacy Project Portfolio
 
-**Name:** Rudraksha Gaharwar
+Welcome to my official Digital Literacy Portfolio! This repository contains all my deliverables for the **CSE0001 - Digital Literacy** course. 
 
-**Registration Number:** 25BAI10635
+As a **Student Digital Ambassador**, I have compiled resources, reflections, and practical examples to demonstrate safe, professional, and effective navigation of the digital world\.
 
-**Branch:** B.Tech CSE (AI and ML)
+---
 
-**Role:** Student Digital Ambassador
+## 👨‍🎓 Student Details
 
-## Project Overview
-This repository contains my portfolio for the CSE0001 Digital Literacy course. As a Student Digital Ambassador, my goal is to help my peers navigate the digital world safely, professionally, and effectively. 
+| Field | Information |
+| :--- | :--- |
+| **Name** | Rudraksha Gaharwar  |
+| **Registration No.** | 25BAI10635 |
+| **Degree** | First Year B.Tech - CSE (AI & ML)  |
+| **University** | VIT Bhopal University  |
 
-## Module Summaries
-* **Module 1 (Infographic):** Created a visual guide on digital literacy awareness using Canva.
-* **Module 2 (Portfolio):** Established a professional digital presence on GitHub, LinkedIn, and Kaggle.
-* **Module 3 (Platforms):** Practiced coding on HackerRank and built a collaboration quiz via Google Forms. 
-    * [Link to Google Form Quiz] *https://forms.gle/qaUYos9YrAUUuH836*
-* **Module 4 (Email Etiquette):** Drafted professional emails and created a responsible social media checklist.
-* **Module 5 (Cybercrime):** Researched UPI fraud and developed a prevention checklist for college students.
+---
+
+## 📂 Repository Structure
+
+To keep everything organized and accessible, this repository is structured exactly as required by the project brief. 
+
+```text
+📦 digital-literacy-project
+ ┣ 📂 report/                 # Contains the final Project_Report.docx 
+ ┣ 📂 task-1-presentation/    # Digital Literacy Infographic (Canva) 
+ ┣ 📂 task-2-portfolio/       # Screenshots of GitHub, LinkedIn, Kaggle profiles 
+ ┣ 📂 task-3-platforms/       # HackerRank completion and Google Form quiz 
+ ┣ 📂 task-4-email-etiquette/ # Professional email drafts & Social Media Checklist 
+ ┣ 📂 task-5-cybercrime/      # UPI Fraud Case Study & Prevention Checklist 
+ ┗ 📜 README.md               # Project overview and module summaries 
