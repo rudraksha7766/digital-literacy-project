@@ -12,6 +12,6 @@ This repository contains my portfolio for the CSE0001 Digital Literacy course. A
 * **Module 1 (Infographic):** Created a visual guide on digital literacy awareness using Canva.
 * **Module 2 (Portfolio):** Established a professional digital presence on GitHub, LinkedIn, and Kaggle.
 * **Module 3 (Platforms):** Practiced coding on HackerRank and built a collaboration quiz via Google Forms. 
-    * [Link to Google Form Quiz](#) *(Add your Google Form link here)*
+    * [Link to Google Form Quiz](#) *(https://docs.google.com/forms/d/e/1FAIpQLScOVZkUFnLY9mq6-kNbiD7fBGIawlnNXR0nF4rp20vRZmcAkw/viewform?usp=dialog)*
 * **Module 4 (Email Etiquette):** Drafted professional emails and created a responsible social media checklist.
 * **Module 5 (Cybercrime):** Researched UPI fraud and developed a prevention checklist for college students.
