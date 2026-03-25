@@ -1,8 +1,11 @@
 # Digital Literacy Portfolio - CSE0001
 
 **Name:** Rudraksha Gaharwar
+
 **Registration Number:** 25BAI10635
+
 **Branch:** B.Tech CSE (AI and ML)
+
 **Role:** Student Digital Ambassador
 
 ## Project Overview
