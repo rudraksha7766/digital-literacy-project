@@ -1,75 +1,75 @@
 # 🌐 CSE0001: Digital Literacy Project Portfolio
 
-Welcome to my official Digital Literacy Portfolio! This repository contains all my deliverables for the **CSE0001 - Digital Literacy** course. 
+**"Navigating the digital world safely, professionally, and effectively."**
 
-As a **Student Digital Ambassador**, I have compiled resources, reflections, and practical examples to demonstrate safe, professional, and effective navigation of the digital world\.
+This repository contains my complete portfolio for the **CSE0001 - Digital Literacy** course. As a Student Digital Ambassador, my objective is to demonstrate best practices in digital communication, online security, and professional branding through five hands-on modules.
 
 ---
 
-## 👨‍🎓 Student Details
+## 👨‍🎓 Student Profile
 
-| Field | Information |
+| Attribute | Details |
 | :--- | :--- |
-| **Name** | Rudraksha Gaharwar  |
+| **Name** | Rudraksha Gaharwar |
 | **Registration No.** | 25BAI10635 |
-| **Degree** | First Year B.Tech - CSE (AI & ML)  |
-| **University** | VIT Bhopal University  |
+| **Degree** | First Year B.Tech - CSE (AI & ML) |
+| **University** | VIT Bhopal University |
+| **Role** | Student Digital Ambassador |
 
 ---
 
-## 📂 Repository Structure
+## 🗂️ Repository Structure & Folder Contents
 
-To keep everything organized and accessible, this repository is structured exactly as required by the project brief. 
+This repository is organized strictly according to the project brief requirements. Below is a detailed breakdown of every folder and the files they contain:
 
-```text
-📦 digital-literacy-project
- ┣ 📂 report/                 # Contains the final Project_Report.docx 
- ┣ 📂 task-1-presentation/    # Digital Literacy Infographic (Canva) 
- ┣ 📂 task-2-portfolio/       # Screenshots of GitHub, LinkedIn, Kaggle profiles 
- ┣ 📂 task-3-platforms/       # HackerRank completion and Google Form quiz 
- ┣ 📂 task-4-email-etiquette/ # Professional email drafts & Social Media Checklist 
- ┣ 📂 task-5-cybercrime/      # UPI Fraud Case Study & Prevention Checklist 
- ┗ 📜 README.md               # Project overview and module summaries
+* 📁 **`report/`**
+  * Contains the final, comprehensive written report detailing my reflections and learnings from all five modules.
+  * *File:* `Project_Report.pdf` (or `.docx`)
 
-📚 Module Summaries & Deliverables
+* 📁 **`task-1-presentation/`**
+  * Contains the visual resource created to explain core digital literacy concepts to my batchmates.
+  * *File:* `Infographic.png` (Exported from Canva)
 
-Here is a breakdown of the five tasks completed for this portfolio, mapping to each module of the course:
+* 📁 **`task-2-portfolio/`**
+  * Contains photographic evidence of my foundational, professional digital footprint.
+  * *Files:* Screenshots of my active profiles on **GitHub** (with custom README), **LinkedIn**, and **Kaggle**.
 
-🎨 Task 1: Digital Literacy Awareness (Module 1)
+* 📁 **`task-3-platforms/`**
+  * Contains proof of technical practice and cloud collaboration.
+  * *Files:* * Screenshot of completed Python coding challenge on **HackerRank**.
+    * Screenshots of the **Google Form** (Digital Literacy Awareness Quiz) and the linked **Google Sheet**.
+  * 🔗 **[Click here to view my Digital Literacy Awareness Google Form Quiz](https://forms.gle/gdGkRzqGY4Ynz5ik6)**
 
-Objective: Create a visual resource explaining digital literacy.
+* 📁 **`task-4-email-etiquette/`**
+  * Contains examples of professional communication and social media guidelines.
+  * *Files:* * `email-1-extension.txt` (Formal deadline extension request)
+    * `email-2-internship.txt` (Inquiry for a summer AI/ML internship)
+    * `social-media-checklist.md` (A "Do's and Don'ts" guide for college students)
 
+* 📁 **`task-5-cybercrime/`**
+  * Contains an actionable awareness resource regarding online financial threats.
+  * *Files:* * `casestudy.md` (Detailed research on UPI / Online Payment Fraud targeting students)
+    * `prevention-checklist.md` (An 8-point 'Stay Safe Online' checklist with national reporting channels)
 
-Deliverable: A one-page infographic designed using Canva, covering safe internet practices and professional online presence.
+---
 
-💼 Task 2: Student Digital Portfolio (Module 2)
+## 🚀 Key Deliverables Summary
 
-Objective: Establish a professional foundational digital footprint.
+1. **Digital Literacy Awareness:** Highlighted safe internet practices, the importance of 2FA, and professional online presence via a Canva infographic.
+2. **Student Digital Portfolio:** Established profiles on GitHub, LinkedIn, and Kaggle tailored for an engineering student.
+3. **Coding & Collaboration:** Solved introductory Python challenges and built data-collection tools via Google Workspace.
+4. **Professional Communication:** Applied strict formatting rules to academic and professional email drafts.
+5. **Cybercrime Prevention:** Researched marketplace social engineering tactics and developed a targeted defense checklist.
 
+---
 
-Deliverable: Profile setups on GitHub (with a custom README), LinkedIn, and Kaggle.
+## 🛠️ Tools & Platforms Explored
+* **Design:** Canva
+* **Version Control:** GitHub
+* **Networking:** LinkedIn
+* **Coding:** HackerRank, Python
+* **Data Science:** Kaggle
+* **Collaboration:** Google Workspace (Forms, Sheets)
 
-💻 Task 3: Coding & Collaboration Platforms (Module 3)
-
-Objective: Build familiarity with coding practice and cloud collaboration tools.
-
-
-Deliverable: * Completed the introductory Python challenge on HackerRank.
-
-Built a Digital Literacy Awareness Quiz using Google Workspace.
-
-🔗 Click here to view my Google Form Quiz (https://forms.gle/Q5b35t3tNze6EKPWA) 
-
-✉️ Task 4: Professional Email & Etiquette (Module 4)
-
-Objective: Apply professional communication rules and establish social media guidelines.
-
-
-Deliverable: Two drafted professional emails (extension request & internship inquiry) and a "Do's and Don'ts" checklist for responsible social media use.
-
-🛡️ Task 5: Cybercrime Awareness & Prevention (Module 5)
-
-Objective: Recognize online threats and produce an awareness resource.
-
-
-Deliverable: A detailed case study on UPI / Online Payment Fraud and an 8-point actionable 'Stay Safe Online' prevention checklist for college students in India.
+---
+*Submitted for the internal project assessment (100 marks) via the VITyarthi platform.*
